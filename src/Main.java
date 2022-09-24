@@ -14,7 +14,7 @@ public class Main {
 
 
 
-    /*МЕТОДЫ*/
+    /*МЕТОgfДЫ*/
 
     private static void initial() {
         int department = 1;
