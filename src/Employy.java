@@ -42,7 +42,7 @@ public class Employy {
 
 
 
-    /*SETTER`S*/
+    /*SETTEавR`S*/
 
     public void setDepartment(int department) {
         this.department = department;
